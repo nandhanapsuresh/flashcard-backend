@@ -6,10 +6,11 @@ passlib[bcrypt]
 bcrypt==4.0.1
 spacy
 transformers
-torch
+# torch
+torch==2.3.1
 sentencepiece
 protobuf
-tiktoken
+# tiktoken
 python-dotenv
-pytest
-httpx
+# pytest
+# httpx
