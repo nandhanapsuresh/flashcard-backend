@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+spacy
+transformers
+torch
+sentencepiece
+protobuf
+tiktoken
+python-dotenv
+pytest
+httpx
